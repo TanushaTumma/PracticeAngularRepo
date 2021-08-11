@@ -1,1 +1,4 @@
 This is new file for remote
+
+Second line for commit:wq
+
